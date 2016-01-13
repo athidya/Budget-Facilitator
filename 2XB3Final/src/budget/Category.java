@@ -1,0 +1,7 @@
+package budget;
+
+public enum Category {
+	
+	TRANSPORTATION, ENTERTAINMENT, FOOD, UTILITIES, SCHOOL, CLOTHES, ESSENTIALS, OTHER
+	
+}
